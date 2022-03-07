@@ -20,8 +20,32 @@
 }
 
 header.header-y {
-    height: 3.5em;
-    background-color: #772222c9;
+    /* height: 3.5em; */
+    /* background-color: #772222c9; */
+}
+
+.header-top {
+    width: 10%;
+}
+
+.header-top > img {
+    height: 3em;
+    border-right: 1px solid gray;
+    padding-right: 1em;
+}
+
+nav > ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: grey;
+}
+
+li {
+    display: inline-block;
+    padding-right: .5em;
 }
 
 main section:first-child {
