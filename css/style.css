@@ -144,8 +144,12 @@ div > h3 {
 /* /margin of content 2nd section*/
 
 /* FOOTER  */
-footer#footer {
-    margin-top: 1%;
-    height: 2em;
-    background-color: #ce1af1af;
+footer.footer {
+    text-align: center;
+    font-size: large;
+}
+
+#footer-heart {
+    color: rgb(233, 15, 51);
+    font-size: 1.5em;
 }
