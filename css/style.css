@@ -152,6 +152,7 @@ div > h3 {
 footer.footer {
     text-align: center;
     font-size: large;
+    padding: .5em 0;
 }
 
 #footer-heart {
